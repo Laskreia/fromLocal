@@ -1,1 +1,2 @@
-print("bilhan niyo ako ng ensaymada :( ")
+name = input("Name: ")
+print("Hello", name)
